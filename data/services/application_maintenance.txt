@@ -1,0 +1,16 @@
+APP IN SNAP - APPLICATION MAINTENANCE
+
+App in Snap provides application maintenance and technical support services after application deployment.
+
+Maintenance services include:
+
+- Application bug fixing
+- Technical issue resolution
+- Performance improvements
+- Application updates
+- Compatibility improvements
+- Database-related maintenance
+- API and integration support
+- Post-deployment technical assistance
+
+Customers can contact App in Snap when they need maintenance, troubleshooting, or technical assistance for an application developed or supported by App in Snap.

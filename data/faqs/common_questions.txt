@@ -1,0 +1,21 @@
+APP IN SNAP - FREQUENTLY ASKED QUESTIONS
+
+Q: How can I register a complaint?
+
+A: You can register a complaint through the App in Snap support system. Provide information about your issue and a unique complaint number will be generated.
+
+Q: How can I check my complaint?
+
+A: You can check your complaint using your complaint number.
+
+Q: What is a complaint number?
+
+A: A complaint number is a unique identifier assigned to your complaint after successful registration.
+
+Q: Can I have multiple complaints?
+
+A: Yes. A customer can register multiple complaints. Each complaint receives its own complaint number.
+
+Q: What information should I provide when registering a complaint?
+
+A: Provide a clear description of the problem and any relevant information that can help the support team understand the issue.

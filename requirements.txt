@@ -1,0 +1,13 @@
+sqlalchemy
+python-dotenv
+pydantic
+openai
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+numpy
+qdrant-client
+langchain
+langchain-openai
+langchain-community

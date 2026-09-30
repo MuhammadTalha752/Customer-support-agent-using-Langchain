@@ -1,0 +1,31 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local development settings
+.idea/
+.vscode/
+
+# Local databases and runtime state
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated local vector database
+data/qdrant_store_langchain/
+
+# Scratch notes
+New Text Document.txt
+
+# OS and tool-generated files
+.DS_Store
+Thumbs.db

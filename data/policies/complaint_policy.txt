@@ -1,0 +1,28 @@
+APP IN SNAP - COMPLAINT POLICY
+
+Customers can register complaints regarding services, applications, technical problems, or other service-related issues.
+
+Complaint Registration:
+
+1. The customer must provide sufficient information about the problem.
+2. A complaint is assigned a unique complaint number after registration.
+3. The customer can use the complaint number to check the complaint status.
+4. Customers should keep their complaint number for future reference.
+
+Complaint Status:
+
+A complaint can have different statuses during its lifecycle.
+
+Registered:
+The complaint has been successfully received.
+
+In Progress:
+The support team is currently investigating or working on the complaint.
+
+Resolved:
+The reported issue has been resolved.
+
+Closed:
+The complaint has been completed and closed.
+
+If additional information is required, the support team may contact the customer.
